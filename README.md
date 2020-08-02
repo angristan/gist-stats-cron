@@ -1,0 +1,1 @@
+My GitHub Actions workflow cron for [productive-box](https://github.com/maxam2017/productive-box). It is updating [this gist](https://gist.github.com/angristan/316c43d64113ce2f0879f26acc5ec9e7) which is pinned on my profile.
